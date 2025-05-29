@@ -1,0 +1,16 @@
+{
+    "http.proxyStrictSSL": false,
+    "redhat.telemetry.enabled": true,
+    "workbench.iconTheme": "simple-icons",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "editor.fontFamily": "'JetBrains Mono', monospace",
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": true,
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java"
+    },
+    "switchConfig.darkTheme": "GitHub Dark",
+    "switchConfig.lightTheme": "GitHub Light",
+    "workbench.colorTheme": "GitHub Light",
+    "explorer.confirmDelete": false,
+}
